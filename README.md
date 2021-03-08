@@ -2,14 +2,14 @@
 
 ### I am a MS ECE student at The Ohio State University!
 - Software Engineer Intern at SafeAuto.
+- Former Software Development Engineer at Mphasis Limited
 - Passionate tech enthusiast with expertise in software and application development, web design, data analytics and developing large scale distributed systems
 - Trying to make an impact by improving one line of code at a time
 
 
 ### Connect with me:
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-nithintsk-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/subhajyotisarkar/)<br />
-[![blog badge](https://img.shields.io/badge/Website-nithintsk.github.io-green?style=flat-square&logo=google-chrome&logoColor=green)](https://github.com/sarkar1211)<br />
-[![gmail badge](https://img.shields.io/badge/Email-nithin.tsk%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:sarkar.subhajyoti1993@gmail.com)<br />
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-subhajyotisarkar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/subhajyotisarkar/)<br />
+[![gmail badge](https://img.shields.io/badge/Email-sarkar.subhajyoti1993%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:sarkar.subhajyoti1993@gmail.com)<br />
 
 
 ### Languages and Tools:
